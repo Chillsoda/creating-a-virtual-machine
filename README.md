@@ -26,7 +26,12 @@ This tutorial outlines how to create a virtual machine on Azure from start to fi
 
 2.) Once you arrive at the home screen, head to resource groups and create a new one. This will serve to organize our resources under one banner. Give it a name then click review and create it. 
 
-3.) 
+3.) Back at the home screen, click on virtual machines and click to create a new one. Organize it under our newly created resource group, give it a name, and select Windows 10 as its operating system (image in Azure). 
+
+![Screen Shot 2024-03-01 at 3 45 56 AM](https://github.com/Chillsoda/creating-a-virtual-machine/assets/161760771/491a5f94-21e8-4fd5-b15e-b6d266d29a73) 
+
+4.) 
+
 
 
 
