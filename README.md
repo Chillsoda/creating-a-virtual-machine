@@ -8,6 +8,7 @@ This tutorial outlines how to create a virtual machine on Azure from start to fi
 
 <h2> Requirements and prerequisites</h2> 
 1.) An active subscription to Microsoft Azure 
+
 2.) A stable internet connection 
 
 
