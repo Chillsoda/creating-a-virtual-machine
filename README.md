@@ -30,7 +30,14 @@ This tutorial outlines how to create a virtual machine on Azure from start to fi
 
 ![Screen Shot 2024-03-01 at 3 45 56 AM](https://github.com/Chillsoda/creating-a-virtual-machine/assets/161760771/491a5f94-21e8-4fd5-b15e-b6d266d29a73) 
 
-4.) 
+4.) For its size, go for two vcpu's. Create your username and password and check the box for licensing. Click review and create and wait for it to be deployed.
+
+5.) Our screen should now look like this under our resource group. Notice how multiple resources were created, not just the virtual machine. 
+
+![Screen Shot 2024-03-01 at 4 02 25 AM](https://github.com/Chillsoda/creating-a-virtual-machine/assets/161760771/7e46cc70-df6a-425d-80e1-702d426c6f55) 
+
+6.) 
+
 
 
 
