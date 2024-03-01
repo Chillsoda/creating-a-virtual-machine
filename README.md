@@ -36,7 +36,14 @@ This tutorial outlines how to create a virtual machine on Azure from start to fi
 
 ![Screen Shot 2024-03-01 at 4 02 25 AM](https://github.com/Chillsoda/creating-a-virtual-machine/assets/161760771/7e46cc70-df6a-425d-80e1-702d426c6f55) 
 
-6.) 
+6.) Repeat the process to create another virtual machine, this time select Ubuntu as the operating system (image) instead of Windows. 
+
+7.) Click next on the bottom until you get to the networking section. Notice how the virtual network it selected is the one we created alongside the previous virtual machine. 
+
+![Screen Shot 2024-03-01 at 4 17 58 AM](https://github.com/Chillsoda/creating-a-virtual-machine/assets/161760771/846a3050-9304-4373-ab35-545b27fa9ea9) 
+
+8.) 
+
 
 
 
