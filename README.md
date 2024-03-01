@@ -20,7 +20,7 @@ This tutorial outlines how to create a virtual machine on Azure from start to fi
 
 <h1> Set up instructions</h1> 
 
-1.) Have an active subscription to Microsoft Azure. Signing up will give you $200 worth of free credits to your account. 
+1.) Have an active subscription to Microsoft Azure. Signing up will give you $200 worth of free credits to your account. Head to https://portal.azure.com to get started. 
 
 ![Screen Shot 2024-03-01 at 3 34 50 AM](https://github.com/Chillsoda/creating-a-virtual-machine/assets/161760771/b8d4847b-2f10-4fe7-b6b0-e57eaf5db2a2) 
 
